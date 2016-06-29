@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- Currently, only emotions supported by all characters are included. -->
+<!-- Character unique emotions will be added in the future. -->
+
+<!-- Organize by mandatory and optional pending... -->
+
+<translations>
+
+  <emotion>
+    <english>General (Standard)</english>
+    <japanese>通常</japanese>
+  </emotion>
+
+  <emotion>
+    <english>Angry</english>
+    <japanese>怒</japanese>
+  </emotion>
+
+  <emotion>
+    <english>Suffering</english>
+    <japanese>苦</japanese>
+  </emotion>
+
+  <emotion>
+    <english>Laughing</english>
+    <japanese>笑</japanese>
+  </emotion>
+
+  <emotion>
+    <english>Great</english>
+    <japanese>キメ</japanese>
+  </emotion>
+
+  <emotion>
+    <english>Sweat Drop</english>
+    <japanese>汗</japanese>
+  </emotion>
+
+  <emotion>
+    <english>Blush</english>
+    <japanese>照</japanese>
+  </emotion>
+
+</translations>

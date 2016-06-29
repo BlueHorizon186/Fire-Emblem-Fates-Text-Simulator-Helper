@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<translations>
+  
+  <!-- Parent Characters -->
+  <parents>
+    
+    <!-- All Routes Characters -->
+
+    <character>
+      <english>Avatar</english>
+      <japanese>username</japanese>
+      <kingdom>All</kingdom>
+    </character>
+    
+    <character>
+      <english>Anna</english>
+      <japanese>アンナ</japanese>
+      <kingdom>All</kingdom>
+    </character>
+
+    <character>
+      <english>Azura</english>
+      <japanese>アクア</japanese>
+      <kingdom>All</kingdom>
+    </character>
+
+    <character>
+      <english>Silas</english>
+      <japanese>サイラス</japanese>
+      <kingdom>All</kingdom>
+    </character>
+
+    <character>
+      <english>Felicia</english>
+      <japanese>フェリシア</japanese>
+      <kingdom>All</kingdom>
+    </character>
+
+    <character>
+      <english>Izana</english>
+      <japanese>イザナ</japanese>
+      <kingdom>All</kingdom>
+    </character>
+
+    <character>
+      <english>Kaze</english>
+      <japanese>スズカゼ</japanese>
+      <kingdom>All</kingdom>
+    </character>
+
+    <character>
+      <english>Jakob</english>
+      <japanese>ジョーカー</japanese>
+      <kingdom>All</kingdom>
+    </character>
+
+    <character>
+      <english>Mozu</english>
+      <japanese>モズメ</japanese>
+      <kingdom>All</kingdom>
+    </character>
+
+    <character>
+      <english>Shura</english>
+      <japanese>アシュラ</japanese>
+      <kingdom>All</kingdom>
+    </character>
+
+    <!-- Hoshidan Characters -->
+
+    <character>
+      <english>Azama</english>
+      <japanese>アサマ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Scarlet</english>
+      <japanese>クリムゾン</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Hinata</english>
+      <japanese>ヒナタ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Hinoka</english>
+      <japanese>ヒノカ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Kagero</english>
+      <japanese>カゲロウ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Hana</english>
+      <japanese>カザハナ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Kaden</english>
+      <japanese>ニシキ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Oboro</english>
+      <japanese>オボロ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Orochi</english>
+      <japanese>オロチ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Rinkah</english>
+      <japanese>リンカ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Ryoma</english>
+      <japanese>リョウマ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Saizo</english>
+      <japanese>サイゾウ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Sakura</english>
+      <japanese>サクラ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Setsuna</english>
+      <japanese>セツナ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Takumi</english>
+      <japanese>タクミ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Subaki</english>
+      <japanese>ツバキ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Hayato</english>
+      <japanese>ツクヨミ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Reina</english>
+      <japanese>ユウギリ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <!-- Nohrian Characters -->
+
+    <character>
+      <english>Beruka</english>
+      <japanese>ベルカ</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Benny</english>
+      <japanese>ブノワ</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Camilla</english>
+      <japanese>カミラ</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Charlotte</english>
+      <japanese>シャーロッテ</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Effie</english>
+      <japanese>エルフィ</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Elise</english>
+      <japanese>エリーゼ</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Keaton</english>
+      <japanese>フランネル</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Flora</english>
+      <japanese>フローラ</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Gunter</english>
+      <japanese>ギュンター</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Arthur</english>
+      <japanese>ハロルド</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Laslow</english>
+      <japanese>ラズワルド</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Leo</english>
+      <japanese>レオン</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Selena</english>
+      <japanese>ルーナ</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Xander</english>
+      <japanese>マークス</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Nyx</english>
+      <japanese>ニュクス</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Odin</english>
+      <japanese>オーディン</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Peri</english>
+      <japanese>ピエリ</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Niles</english>
+      <japanese>ゼロ</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+    
+  </parents>
+
+  <!-- Children Characters -->
+  <children>
+
+    <!-- All Routes Characters -->
+
+    <character>
+      <english>Kana (F)</english>
+      <japanese>カンナ女</japanese>
+      <kingdom>All</kingdom>
+    </character>
+
+    <character>
+      <english>Kana (M)</english>
+      <japanese>カンナ男</japanese>
+      <kingdom>All</kingdom>
+    </character>
+
+    <character>
+      <english>Dwyer</english>
+      <japanese>ディーア</japanese>
+      <kingdom>All</kingdom>
+    </character>
+
+    <character>
+      <english>Midori</english>
+      <japanese>ミドリコ</japanese>
+      <kingdom>All</kingdom>
+    </character>
+
+    <character>
+      <english>Shigure</english>
+      <japanese>シグレ</japanese>
+      <kingdom>All</kingdom>
+    </character>
+
+    <character>
+      <english>Sophie</english>
+      <japanese>ゾフィー</japanese>
+      <kingdom>All</kingdom>
+    </character>
+    
+    <!-- Hoshidan Characters -->
+
+    <character>
+      <english>Asugi</english>
+      <japanese>グレイ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Hisame</english>
+      <japanese>ヒサメ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Selkie</english>
+      <japanese>キヌ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Kiragi</english>
+      <japanese>キサラギ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Caeldori</english>
+      <japanese>マトイ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Mitama</english>
+      <japanese>ミタマ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Shiro</english>
+      <japanese>シノノメ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <character>
+      <english>Rhajat</english>
+      <japanese>シャラ</japanese>
+      <kingdom>Hoshido</kingdom>
+    </character>
+
+    <!-- Nohrian Characters -->
+
+    <character>
+      <english>Nina</english>
+      <japanese>エポニーヌ</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Forrest</english>
+      <japanese>フォレオ</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Ignatius</english>
+      <japanese>イグニス</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Percy</english>
+      <japanese>ルッツ</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Ophelia</english>
+      <japanese>オフェリア</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Siegbert</english>
+      <japanese>ジークベルト</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Soleil</english>
+      <japanese>ソレイユ</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+
+    <character>
+      <english>Velouria</english>
+      <japanese>ベロア</japanese>
+      <kingdom>Nohr</kingdom>
+    </character>
+    
+  </children>
+  
+</translations>
